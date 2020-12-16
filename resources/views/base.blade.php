@@ -7,7 +7,9 @@
     <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="{{asset('css/style.css')}}">
-    <script src="{{url('js/bootstrap.min.css')}}"></script>
+    <script src="{{url('js/jquery.min.js')}}"></script>
+    <script src="{{url('js/popper.min.js')}}"></script>
+    <script src="{{url('js/bootstrap.min.js')}}"></script>
     <title>Lentrix CourseWare</title>
     <style>
 .button {
